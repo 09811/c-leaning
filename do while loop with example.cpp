@@ -18,4 +18,4 @@ int main() {                                            //Main class
 			std::cout << "The number is bigger than " << guess << std::endl;
 		}
 	} while (guess != number);                                      //Until here and it will repeat until the condition in the brackets 
-}                                                  //Why we use do while and not while? --> At first it cant be right so when we use while instead it would check if the guess equals the number without an guess was made!
+}                                                  //Why we use 'do while' and not while? --> At first it cant be right so when we use while instead it would check if the guess equals the number without an guess was made!
